@@ -16,7 +16,7 @@ Si terminaste la primera parte, deberas implementar en el bloque de color negro:
 - Al dar click en el botón `Filtrar mujeres` se deberá mostrar el Título "Mujeres" y el listado con el nombre de las artistas de género femenino
 
 ### Ejemplo
-![img](https://raw.githubusercontent.com/AnHernandezOlvera/app-artistas/main/app-artistas/app-artistas.jpg)
+![img](https://raw.githubusercontent.com/AnHernandezOlvera/app-artistas/main/app-artistas/app-ejemplo.jpg)
 
 ### Listado de artistas
 
